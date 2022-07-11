@@ -1,1 +1,1 @@
-## ![](./org.png) Softmaid
+## ![](./org.png {width=40px height=40px}) Softmaid
