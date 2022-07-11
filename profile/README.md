@@ -1,1 +1,1 @@
-## ![image info](./org.png) Softmaid
+## ![](./org.png) Softmaid
